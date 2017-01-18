@@ -1030,7 +1030,7 @@ require_once('search.php');</string>
 				<key>sticky</key>
 				<false/>
 				<key>text</key>
-				<string>All finished, updating :)</string>
+				<string>All finished updating 😄</string>
 				<key>title</key>
 				<string>Web Dev Suggest</string>
 			</dict>
